@@ -196,8 +196,6 @@ AI hỏi 3–4 câu nhưng:
 ---
 ## 6. Mini AI Spec — VinFast AI Advisor (Tư vấn mua xe)
 
-*Tóm tắt tự do — 1 trang*
-
 ---
 
 ## Product giải gì, cho ai?
